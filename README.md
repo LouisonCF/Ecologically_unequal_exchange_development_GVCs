@@ -5,7 +5,7 @@ This repository contains the code and material for __Althouse J., Cahen-Fourot L
 This code performs the statistical analysis for the article . It reproduces the clustering, exports the file with the PCA and clustering results and generates figures 2 (radar graph) and 3 (3D graph of cluster) in the paper.
 
 ---
-Make sure you have the dataset _Data_EUE_GVC_index_variables.xlsx_ that you find in the same folder. This file contains the index variables upon which the clustering is performed.
+Make sure you have the dataset _Data_EUE_GVC_index_variables.xlsx_ that you find in the same folder. This file contains the index variables upon which the clustering is performed. We recommend to use the _EUE_GVC_project.rproj_ fil to ensure that the code runs in the correct working directory.
 
 Make sure your R version and the packages are up-to-date! This code was tested under R 4.2.2.
 
