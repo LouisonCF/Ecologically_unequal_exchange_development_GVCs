@@ -25,4 +25,4 @@ Code: MIT (https://choosealicense.com/licenses/mit/); year: 2023; copyright hold
 
 ## Contact
  
-The corresponding author is Cédric Durand, cedric.durand _at_ unige.ch. Questions on the code and statistical analysis can be addressed to Louison Cahen-Fourot (lcahenfo _at_ ruc.dk).
+The corresponding author is Cédric Durand, cedric.durand _at_ unige.ch. The replication code and folder were prepared by Steven Knauss and Louison Cahen-Fourot. Questions on the code and statistical analysis can be addressed to Louison Cahen-Fourot (lcahenfo _at_ ruc.dk).
