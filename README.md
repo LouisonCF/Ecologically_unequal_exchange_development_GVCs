@@ -1,4 +1,4 @@
-# Ecologically_unequal_exchange_development_GVCs
+# Ecologically unequal exchange and uneven development patterns along global value chains -- Replication kit
 
 This repository contains the code and material for __Althouse J., Cahen-Fourot L., Carballa-Smichowski B., Durand C., Knauss S. 2023, Ecologically unequal exchange and uneven development patterns along global value chains__, _World Development_, available open-access [__here__](url to be added when paper is online)
 
