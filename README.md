@@ -19,7 +19,10 @@ In addition, the code generates three excel files: the file with the Keyser-Meye
 
 ## Licences
 
-Database: CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/. The database we provide contains the index variables that we built upon data from many sources. If you use the underlying data, please cite their source accordingly (see the article for the detailed list of data and sources).
+Database: CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/. This licence applies to the database we provide that contains the index variables that we built upon data from many sources. 
+
+Underlying data to reproduce index variables can be obtained from the authors upon request (note that this replication code does not reproduce the index variables but starts from them). However, the biodiversity data used in the _domestic ecological impact_ and _external balance of ecological degradation_ index variables are from Bjelle, E. L., Kuipers, K., Verones, F., & Wood, R. (2021). Trends in national biodiversity footprints of land use. _Ecological Economics_, 185. https://doi.org/10.1016/j.ecolecon.2021.107059
+and were communicated to us by Eivind Lekve Bjelle. Please direct any request for these data to Eivind.
 
 Code: MIT (https://choosealicense.com/licenses/mit/); year: 2023; copyright holders: Jeff Althouse, Louison Cahen-Fourot, Bruno Carballa-Smichowski, Cédric Durand, Steven Knauss.
 
