@@ -1,6 +1,6 @@
 # Ecologically unequal exchange and uneven development patterns along global value chains -- Replication kit
 
-This repository contains the R code and material for __Althouse J., Cahen-Fourot L., Carballa-Smichowski B., Durand C., Knauss S. 2023, Ecologically unequal exchange and uneven development patterns along global value chains__, _World Development_, available open-access [here](https://www.sciencedirect.com/science/article/pii/S0305750X23001262)
+This repository contains the R code and material for __Althouse J., Cahen-Fourot L., Carballa-Smichowski B., Durand C., Knauss S. 2023, Ecologically unequal exchange and uneven development patterns along global value chains__, _World Development_, available open-access [here](https://www.sciencedirect.com/science/article/pii/S0305750X23001262).
 
 This code performs the statistical analysis for the article. It reproduces the principal components analysis and the clustering, exports the files with the PCA and clustering results and generates figures 2 (radar graph) and 3 (3D graph of cluster) in the paper.
 
