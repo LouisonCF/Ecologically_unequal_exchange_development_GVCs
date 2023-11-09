@@ -1,10 +1,9 @@
+Replication package's persistent identifier: [![DOI](https://zenodo.org/badge/646824605.svg)](https://zenodo.org/doi/10.5281/zenodo.10091588)
 # Ecologically unequal exchange and uneven development patterns along global value chains -- Replication kit
 
 This repository contains the R code and material for __Althouse J., Cahen-Fourot L., Carballa-Smichowski B., Durand C., Knauss S. 2023, Ecologically unequal exchange and uneven development patterns along global value chains__, _World Development_, available open-access [here](https://www.sciencedirect.com/science/article/pii/S0305750X23001262).
 
 This code performs the statistical analysis for the article. It reproduces the principal components analysis and the clustering, exports the files with the PCA and clustering results and generates figures 2 (radar graph) and 3 (3D graph of cluster) in the paper.
-
-Replication package's persistent identifier: [![DOI](https://zenodo.org/badge/646824605.svg)](https://zenodo.org/doi/10.5281/zenodo.10091588)
 
 ---
 Make sure you have the dataset _Data_EUE_GVC_index_variables.xlsx_ that you find in the same folder. This file contains the index variables upon which the clustering is performed. We recommend to use the _EUE_GVC_project.rproj_ file to ensure that the code runs in the correct working directory.
